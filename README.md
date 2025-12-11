@@ -57,13 +57,12 @@ To understand what drives revenue and sales success by analyzing:
 ---
 
 ## 📊 Files Included
-- **CRM Sales Dashboard.pbix** – Full Power BI analysis & dashboard  
-- **CRM Sales Documentation.docx** – Complete project write-up  
-- **CRM Sales Presentation.pptx** – Final presentation slides  
+- [CRM Sales Dashboard.pbix](https://github.com/Ebun-nofiu/crm-dashboard-project/raw/refs/heads/main/CRM%20Dashboard.pbix) – Full Power BI analysis & dashboard  
+- [CRM Sales Opportunities Analysis.pptx](https://github.com/Ebun-nofiu/crm-dashboard-project/raw/refs/heads/main/CRM%20SALES%20OPPORTUNITIES%20ANALYSIS.pptx) – Presentation slides  
+- [CRM Sales Opportunities Documentation.docx](https://github.com/Ebun-nofiu/crm-dashboard-project/raw/refs/heads/main/CRM%20SALES%20OPPORTUNITIES%20DOCUMENTATION.docx) – Full project write-up  
 
 ---
 
 ## ✅ Conclusion
 This project provides a clear understanding of what drives revenue, who the top performers are, and where the sales pipeline is leaking.  
 The insights help organizations improve win rates, prioritize profitable products, optimize agent performance, and focus on the strongest revenue drivers.
-
