@@ -39,13 +39,13 @@ Leadership needs to understand:
 ![Overview Page](images/overview-page.png)
 
 ## 2️⃣ Pipelines Analysis
-![Pipelines Analysis](images/pipelines-analysis.png)
+![Pipelines Analysis](images/Pipelines-Analysis.png)
 
 ## 3️⃣ Product Performance
-![Product Performance](images/product-performance.png)
+![Product Performance](images/Product-Performance.png)
 
 ## 4️⃣ Team and Agent Performance
-![Team and Agent Performance](images/team-agent-performance.png)
+![Team and Agent Performance](images/Team-Agent-Performance.png)
 
 ---
 **2. Agent Performance Gaps**  
