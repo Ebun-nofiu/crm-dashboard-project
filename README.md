@@ -36,7 +36,7 @@ Leadership needs to understand:
 ---
 ## 📸 Dashboard Preview
 ## 1️⃣ Overview Page
-![Overview Page](images/overview-page.png)
+![Overview Page](images/Overview-page.png)
 
 ## 2️⃣ Pipelines Analysis
 ![Pipelines Analysis](images/Pipelines-Analysis.png)
@@ -45,7 +45,7 @@ Leadership needs to understand:
 ![Product Performance](images/Product-Performance.png)
 
 ## 4️⃣ Team and Agent Performance
-![Team and Agent Performance](images/Team-Agent-Performance.png)
+![Team and Agent Performance](images/Team-and-Agent-Performance.png)
 
 ---
 **2. Agent Performance Gaps**  
