@@ -39,7 +39,7 @@ Leadership needs to understand:
 ![Overview Page](images/Overview-page.png)
 
 ## 2️⃣ Pipelines Analysis
-![Pipelines Analysis](images/Pipelines-Analysis.png)
+![Pipelines Analysis](images/Pipeline-Analysis.png)
 
 ## 3️⃣ Product Performance
 ![Product Performance](images/Product-Performance.png)
