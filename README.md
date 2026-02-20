@@ -27,6 +27,21 @@ Leadership needs to understand:
 - **Visualization**: Multi-page interactive dashboard with drill-through capabilities
 
 ---
+
+## 📸 Dashboard Preview
+## 1️⃣ Overview Page
+![Overview Page](images/Overview-page.png)
+
+## 2️⃣ Pipelines Analysis
+![Pipelines Analysis](images/Pipeline-Analysis.png)
+
+## 3️⃣ Product Performance
+![Product Performance](images/Product-Performance.png)
+
+## 4️⃣ Team and Agent Performance
+![Team and Agent Performance](images/Team-and-Agent-Performance.png)
+
+---
 ## 📈 Key Findings
 **1. Regional Performance Disparity**
 - **West Region:** $3.6M revenue (28.5% of total) - Top performer
@@ -56,20 +71,6 @@ Leadership needs to understand:
 - **2,473 deals lost at "Lost" stage** - biggest pipeline weakness
 - Revenue peaked Q2 2017 ($3.09M) then declined 18% by Q4
 - **Engaging -> Prospecting stage:** Another drop-off point
-
-## 📸 Dashboard Preview
-## 1️⃣ Overview Page
-![Overview Page](images/Overview-page.png)
-
-## 2️⃣ Pipelines Analysis
-![Pipelines Analysis](images/Pipeline-Analysis.png)
-
-## 3️⃣ Product Performance
-![Product Performance](images/Product-Performance.png)
-
-## 4️⃣ Team and Agent Performance
-![Team and Agent Performance](images/Team-and-Agent-Performance.png)
-
 ---
 
 ## 💡 Strategic Recommendations
