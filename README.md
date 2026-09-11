@@ -47,6 +47,7 @@ Leadership needs to understand:
 - **West Region:** $3.6M revenue (36% of total) - Top performer
 - **Central Region:** $3.3M revenue
 - **East Region:** Underperforming with only $3.1M
+
 **2. Agent Performance Gaps**
 - **Top Agent(Reed Clapper):** 65% win rate
 - **Bottom Agent(Lajuana Vencill):** 41% win rate
